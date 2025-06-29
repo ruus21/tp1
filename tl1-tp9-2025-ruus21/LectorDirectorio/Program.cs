@@ -1,7 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-using EspacioArchivoCSV;
+﻿using EspacioArchivoCSV;
 
-Console.WriteLine("Hello, World!");
 string? path;
 do
 {
